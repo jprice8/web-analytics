@@ -1,0 +1,4 @@
+# Secrets
+.env
+venv
+env
